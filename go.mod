@@ -1,4 +1,4 @@
-module github.com/omeid/uconfig
+module github.com/Lumerin-protocol/uconfig
 
 go 1.18
 
